@@ -21,6 +21,8 @@ Get .cache file - see Spotify Auth section
 
 Copy .cache file into src/ folder
 
+Run "pip3 install spotipy -t ./"
+
 terraform init && terraform plan
 
 terraform apply
