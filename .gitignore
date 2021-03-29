@@ -1,0 +1,6 @@
+.cache
+.terraform
+terraform.tfvars
+spotify_archiver.zip
+terraform.tfstate
+terraform.tfstate.backup
